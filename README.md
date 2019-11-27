@@ -10,7 +10,7 @@ Visual Recognition and Auto Aiming for BH RM Team 2020
     ...
     
 ## Code
-    The Project is composite of two Parts: One for Armor detection(C++), the other for deciding next move(Python).
+    The Project consists of two Parts: One for object detection(C++), the other for deciding next move(Python).
     ROS is used for communication.
 ------
 - [ ] detect_ros_ws
