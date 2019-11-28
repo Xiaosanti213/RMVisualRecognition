@@ -13,6 +13,7 @@ Visual Recognition and Auto Aiming for BH RM Team 2020
 ## Code
     The Project consists of two Parts: One for object detection(C++), the other for deciding next move(Python).
     ROS is used for communication.
+    
 ------
 - [ ] detect_ros_ws
     - [ ] build
@@ -55,7 +56,7 @@ $ roscore #new terminal
 
 $ cd ~/detect_ros_ws
 $ source devel/setup.bash
-$ rosrun target_detect
+$ rosrun detect_ros_ws target_detect
 ```
 
 ### Python3.5 etc
