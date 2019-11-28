@@ -56,7 +56,7 @@ $ roscore #new terminal
 
 $ cd ~/detect_ros_ws
 $ source devel/setup.bash
-$ rosrun detect_ros_ws target_detect
+$ rosrun target_detect_package target_detect
 ```
 
 ### Python3.5 etc
