@@ -30,7 +30,7 @@ Visual Recognition and Auto Aiming for BH RM Team 2020
 - [x] py_move_decision
     - [x] pymav_move_decicion.py
     
-## Configuration
+## Configuration & Usage
 
 ### Flash Jetpack 3.3
 
@@ -66,7 +66,6 @@ python pymav_move_decicion.py
 ```
 pip install lacking libs
 
-## Usage
 
 
 
