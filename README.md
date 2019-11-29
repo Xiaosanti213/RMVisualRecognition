@@ -37,6 +37,8 @@ Visual Recognition and Auto Aiming for BH RM Team 2020
 
 Internal OS Ubuntu16.04
 
+### Download MYNT-SDK Build and Run sample 
+
 ### Install ROS & Configure WorkSpace
 
 ROS package configuration steps lists Below. 
